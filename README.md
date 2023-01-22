@@ -7,15 +7,15 @@ The purpose of this analysis was to help an investor decide to open a surf and i
 
 # Results
 
-- Summary Statistics DataFrame: June vs. December Temperatures
+## Summary Statistics DataFrame: June vs. December Temperatures
 
 ![Alt text](Visuals/June_Dec_temp_stats.PNG)
 
-- June Temperatures
+## June Temperatures
 
 ![Alt text](Visuals/June_temp_graph.png)
 
-- December Temperatures
+## December Temperatures
 
 ![Alt text](Visuals/Dec_temp_graph.png)
 
@@ -25,6 +25,9 @@ There were a few key differences in weather in Oahu, Hawaii between the month of
 3. The temperature does not have significant fluctuations throughout the year.
 
 # Summary
-In summary, the data supports opening a Surf and Shake shop that will be sustainable year-round. Additionally, if you look at precipitation levels in both June and December, you could see that the chances of continuous rainfall is low. This is helpful because although temperature is a big factor in whether or not many people would show up to the shop, precipitation could play a factor as well. 
+In summary, the data supports opening a Surf and Shake shop that will be sustainable year-round. 
+## Additional Queries
+Additionally, if you look at precipitation levels in both June and December, you could see that the chances of continuous rainfall is low. This is helpful because although temperature is a big factor in whether or not many people would show up to the shop, precipitation could play a factor as well. 
 
+- Summary Statistics: June vs. December Precipitation
 ![Alt text](Visuals/June_Dec_prcp_stats.PNG)
