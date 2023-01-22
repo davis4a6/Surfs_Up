@@ -1,4 +1,7 @@
 ## Surf's Up Challenge
+
+![Alt text](Visuals/surfs_up.jpg)
+
 # Overview of the Analysis
 The purpose of this analysis was to help an investor decide to open a surf and ice cream shop in Oahu, Hawaii. His main concern was whether or not the location on the island would be sustainable for the shop to stay open. In order to help W.Avy be prepared, we did an analysis of temperature trends on Oahu, Hawaii to determine if it is a good area to open up a Surf and Shake shop and be sustainable year-round. To analyze the weather data in Hawaii, SQLAlchemy was used to query the SQLite database and Flask was used to create an app, easily showing the investor and his board the weather data.
 
